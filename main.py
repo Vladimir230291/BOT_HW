@@ -7,7 +7,7 @@ from tic_tac_toe import *
 global wait_input
 wait_input = False
 
-token = '5722701400:AAEKsYtTOzQMW4d1F-w4jBxS-UnMGkfT5qg'
+token = 'token'
 bot = telebot.TeleBot(token)
 
 
